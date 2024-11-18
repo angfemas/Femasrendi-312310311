@@ -38,22 +38,28 @@ ___
 -   **Package Name**:  `com.malikverse.malikverseapp`
 
 ## App flow
-Key interface elements include:
+- Key interface elements include:
 
  1. splash screen.
-     Brand introduction (3 seconds)
+     - Brand introduction (3 seconds)
      
      ![splash screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/splash_screen.png)
      
      
+
  2. Home Screen.
+	 - home
 	 ![mainactivity](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
 	 
+
+
  3.  Led_Control.
+		- led
 	 ![led control](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)
 	   - Led Control on.
 		   ![ledon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)
- 4. Fan_Control.
+ 5. Fan_Control.
+	 
 	 ![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png).
 	  - Fan control on
 	   ![fanon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)

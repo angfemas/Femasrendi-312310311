@@ -56,5 +56,4 @@ Key interface elements include:
     
     [![Ledcontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)
     
-    **Led-on**:
     [![Login Screen 2](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)

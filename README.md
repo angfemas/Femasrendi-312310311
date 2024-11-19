@@ -56,4 +56,11 @@ Key interface elements include:
     
     [![Ledcontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)
     
-    [![Login Screen 2](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)
+    [![ledon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)
+    
+4.  **Led-Control**:  
+    Clikck the button if you want to turn it on.
+    
+    [![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)
+    
+    [![fanon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)

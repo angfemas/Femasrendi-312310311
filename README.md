@@ -37,29 +37,13 @@ ___
 -   **App Name**: Malikverse-app
 -   **Package Name**:  `com.malikverse.malikverseapp`
 
-## App flow
-- Key interface elements include:
+### App Flow
 
- 1. splash screen.
-     - Brand introduction (3 seconds)
-     
-     ![splash screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/splash_screen.png)
-     
-     
+[](https://github.com/nandurstudio/Jempol-Peduli?tab=readme-ov-file#app-flow)
 
- 2. Home Screen.
-	 - home
-	 ![mainactivity](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
-	 
+Key interface elements include:
 
-
- 3.  Led_Control.
-		- led
-	 ![led control](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)
-	   - Led Control on.
-		   ![ledon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)
- 5. Fan_Control.
-	 
-	 ![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png).
-	  - Fan control on
-	   ![fanon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)
+1.  **Splash Screen**:  
+    Brand introduction (3 seconds)  
+    [![Splash Screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
+    

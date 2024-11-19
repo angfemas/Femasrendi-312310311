@@ -39,7 +39,7 @@ ___
 
 ### App Flow
 
-[](https://github.com/nandurstudio/Jempol-Peduli?tab=readme-ov-file#app-flow)
+[](https://github.com/angfemas/malikverse_app_1/blob/main/README.md#app-flow)
 
 Key interface elements include:
 

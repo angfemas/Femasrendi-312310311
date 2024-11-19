@@ -61,7 +61,6 @@ Key interface elements include:
 4.  **Led-Control**:  
     Clikck the button if you want to turn it on.
     
-    [![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png).
-    
+    [![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)
     click again if you want to turn it off
     [![fanon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)

@@ -47,3 +47,6 @@ Key interface elements include:
     Brand introduction (3 seconds)  
     [![Splash Screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
     
+2.  **Home Page**:  
+      featuring features such as light control and fan control .
+    [![MainActivity1](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)

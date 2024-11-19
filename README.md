@@ -61,6 +61,15 @@ Key interface elements include:
 4.  **Led-Control**:  
     Clikck the button if you want to turn it on.
     
-    [![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png):
-    click again if you want to turn it off
+    [![fancontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control.png)
     [![fanon](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/fan_control_on.png)
+
+___
+### Consclusion
+
+The Malikverse IoT mobile application is designed to make it easier for users and complete digitalization in planning this smart home and utilizes technology to create a positive impact for users. With a responsive and intuitive interface, it is expected to reach out.
+___
+Author: Femas Rendi Alfian Salsabila (NIM 312310311).
+Course: Mobile Programming 1 - Android
+Instructor: Pak Donny Maulana, S.Kom., M.M.S.I.
+Institution: Universitas Pelita Bangsa

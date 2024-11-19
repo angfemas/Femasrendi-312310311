@@ -45,8 +45,16 @@ Key interface elements include:
 
 1.  **Splash Screen**:  
     Brand introduction (3 seconds)  
-    [![Splash Screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
+    [![Splash Screen](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/splash_screen.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/splash_screen.png)
     
 2.  **Home Page**:  
     Featuring features such as light control and fan control  
     [![Onboarding Screen 1](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/main_activity.png)
+    
+3.  **Led-Control**:  
+    Clikck the button if you want to turn it on.
+    
+    [![Ledcontrol](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control.png)
+    **Led-on**
+    
+    [![Login Screen 2](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)](https://github.com/angfemas/malikverse_app_1/blob/main/UI_Concept/led_control_on.png)

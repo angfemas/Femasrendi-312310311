@@ -4,10 +4,12 @@
 
 # Table of content
 
- 1.  [introduction](https://github.com/angfemas/Malikverse-app/blob/main/README.md#introduction)
- 2.  [Philosophy](https://github.com/angfemas/Malikverse-app/blob/main/README.md#philosophy)
- 3. [Purpose](https://github.com/angfemas/Malikverse-app/blob/main/README.md#purpose)
- 4. [Aplication name and package](https://github.com/angfemas/Malikverse-app/blob/main/README.md#application-name-and-package)
+ 1.  [introduction.](https://github.com/angfemas/Malikverse-app/blob/main/README.md#introduction)
+ 2.  [Philosophy.](https://github.com/angfemas/Malikverse-app/blob/main/README.md#philosophy)
+ 3. [Purpose.](https://github.com/angfemas/Malikverse-app/blob/main/README.md#purpose)
+ 4. [Aplication name and package.](https://github.com/angfemas/Malikverse-app/blob/main/README.md#application-name-and-package)
+ 5. [App Flow.](https://github.com/angfemas/malikverse_app_1/blob/main/README.md#app-flow)
+ 6. [Conclusion.](https://github.com/angfemas/malikverse_app_1/blob/main/README.md#conclusion)
 ____
 
 ### introduction

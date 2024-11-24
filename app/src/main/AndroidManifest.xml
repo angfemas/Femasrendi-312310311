@@ -25,6 +25,10 @@
 
     <!-- Main Activity -->
     <activity android:name=".MainActivity" />
+
+
+        <!-- Led_control
+        <activity android:name=".LedControl" />-->
     </application>
 
 

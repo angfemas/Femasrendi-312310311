@@ -2,66 +2,163 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/white">
 
-
+    <!-- HEADER -->
     <TextView
-        android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
         android:background="@color/black"
-        android:padding="10dp"
-        android:text="Malikverse"
+        android:text="@string/malikverse"
+        android:paddingTop="19sp"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="25dp"
-        android:textStyle="bold" />
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:shadowColor="@color/black"/>
 
-
-    <android.support.design.card.MaterialCardView
-        android:layout_width="363dp"
-        android:layout_height="184dp"
-        android:layout_margin="25dp"
-        android:background="@color/white"
-        android:outlineSpotShadowColor="@color/black"
-        android:outlineAmbientShadowColor="@color/black"
-        android:screenReaderFocusable="true" >
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="131dp"
-            android:layout_margin="@dimen/default_gap"
-            android:src="@drawable/splash_screen" />
-
-        <Button
+    <!-- SCROLL CONTENT -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- CARD LED CONTROL -->
+            <LinearLayout
+                android:id="@+id/LED"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:backgroundTint="@color/white"
+                android:elevation="4dp"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/led_icon"
+                    android:src="@drawable/led_onnn"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:backgroundTint="@color/purple_500"
+                    android:text="@string/led"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <!-- FAN CONTROL -->
+            <LinearLayout
+                android:id="@+id/FAN"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:backgroundTint="@color/white"
+                android:elevation="4dp"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/fan_icon"
+                    android:src="@drawable/fannnn"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:backgroundTint="@color/purple_500"
+                    android:text="@string/fan"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
 
 
-    </android.support.design.card.MaterialCardView>
+            <!-- WIP CONTROL -->
+            <LinearLayout
+                android:id="@+id/WIP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:backgroundTint="@color/white"
+                android:elevation="4dp"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="16dp">
 
-    <android.support.design.card.MaterialCardView
-        android:layout_width="363dp"
-        android:layout_height="184dp"
-        android:layout_margin="25dp"
-        android:background="@color/white"
-        android:outlineSpotShadowColor="@color/black"
-        android:outlineAmbientShadowColor="@color/black"
-        android:screenReaderFocusable="true" >
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/wip_icon"
+                    android:src="@drawable/workinprogres"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:backgroundTint="@color/purple_500"
+                    android:text="@string/wip"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="131dp"
-            android:layout_margin="@dimen/default_gap"
-            android:src="@drawable/splash_screen" />
+            </LinearLayout>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            <!-- WIP CONTROL -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:backgroundTint="@color/white"
+                android:elevation="4dp"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="16dp">
 
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/wip_icon"
+                    android:src="@drawable/workinprogres"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:backgroundTint="@color/purple_500"
+                    android:text="@string/wip"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
 
-    </android.support.design.card.MaterialCardView>
+            </LinearLayout>
+
+            
+        </LinearLayout>
+    </ScrollView>
+
 
 
 </LinearLayout>

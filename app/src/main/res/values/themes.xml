@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Malikverse_app_1" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Theme.Malikverse_app_1" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/black</item>
         <!-- Customize your theme here. -->

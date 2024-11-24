@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">malikverse_app_1</string>
+    <string name="led_icon">LED Icon</string>
+    <string name="led">LED</string>
+    <string name="malikverse">Malikverse</string>
+    <string name="fan">FAN</string>
+    <string name="fan_icon">fan_icon</string>
+    <string name="wip">WIP</string>
+    <string name="wip_icon">wip_icon</string>
 </resources>

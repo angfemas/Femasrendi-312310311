@@ -7,4 +7,6 @@
     <string name="fan_icon">fan_icon</string>
     <string name="wip">WIP</string>
     <string name="wip_icon">wip_icon</string>
+    <string name="led_control">LED-CONTROL</string>
+    <string name="fan_control">FAN-CONTROL</string>
 </resources>

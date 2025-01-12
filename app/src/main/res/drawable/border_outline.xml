@@ -1,0 +1,8 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <solid android:color="#FFFFFF" /> <!-- Warna latar belakang -->
+    <stroke android:width="2dp"
+        android:color="@color/abu"/>
+    <corners android:radius="25dp"/>
+</shape>

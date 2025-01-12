@@ -11,26 +11,28 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Malikverse_app_1"
-        tools:targetApi="31"
-        >
-    <!-- Splash Screen Activity -->
-    <activity
-        android:name="SplashScreenActivity"
-        android:exported="true">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
-    </activity>
+        tools:targetApi="31">
 
-    <!-- Main Activity -->
-    <activity android:name=".MainActivity" />
+        <!-- Splash Screen Activity -->
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
+        <!-- Main Activity -->
+        <activity android:name=".MainActivity" />
 
-        <!-- Led_control
-        <activity android:name=".LedControl" />-->
+        <!-- LED Control Activity -->
+        <activity android:name=".LEDControlActivity"
+            android:exported="false"/>
+        <!-- FAN Control Activity -->
+        <activity android:name=".FANControlActivity"
+            android:exported="false"/>
+
     </application>
-
-
 
 </manifest>

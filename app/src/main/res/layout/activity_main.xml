@@ -33,12 +33,11 @@
 
             <!-- CARD LED CONTROL -->
             <LinearLayout
-                android:id="@+id/LED"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
-                android:background="@color/white"
-                android:backgroundTint="@color/white"
+                android:background="@drawable/border_outline"
                 android:elevation="4dp"
                 android:gravity="center"
                 android:orientation="vertical"
@@ -51,6 +50,7 @@
                     android:contentDescription="@string/led_icon"
                     android:src="@drawable/led_onnn"/>
                 <Button
+                    android:id="@+id/btnLed"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -64,11 +64,11 @@
 
             <!-- FAN CONTROL -->
             <LinearLayout
-                android:id="@+id/FAN"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
-                android:background="@color/white"
+                android:background="@drawable/border_outline"
                 android:backgroundTint="@color/white"
                 android:elevation="4dp"
                 android:gravity="center"
@@ -82,6 +82,7 @@
                     android:contentDescription="@string/fan_icon"
                     android:src="@drawable/fannnn"/>
                 <Button
+                    android:id="@+id/btnFan"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -96,11 +97,11 @@
 
             <!-- WIP CONTROL -->
             <LinearLayout
-                android:id="@+id/WIP"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
-                android:background="@color/white"
+                android:background="@drawable/border_outline"
                 android:backgroundTint="@color/white"
                 android:elevation="4dp"
                 android:gravity="center"
@@ -114,6 +115,7 @@
                     android:contentDescription="@string/wip_icon"
                     android:src="@drawable/workinprogres"/>
                 <Button
+                    android:id="@+id/btnWip1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -130,7 +132,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
-                android:background="@color/white"
+                android:background="@drawable/border_outline"
                 android:backgroundTint="@color/white"
                 android:elevation="4dp"
                 android:gravity="center"

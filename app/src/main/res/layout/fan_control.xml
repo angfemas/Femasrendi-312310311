@@ -11,7 +11,7 @@
         android:layout_height="70dp"
         android:background="@color/black"
         android:paddingTop="19dp"
-        android:text="@string/led_control"
+        android:text="@string/fan_control"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="25sp"
@@ -33,8 +33,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center">
+                android:gravity="center"
+                android:orientation="horizontal">
 
                 <!-- Item 1 -->
                 <LinearLayout
@@ -51,15 +51,15 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:contentDescription="@string/led_icon"
-                        android:src="@drawable/led_off_new"
-                        android:scaleType="centerInside" />
+                        android:scaleType="centerInside"
+                        android:src="@drawable/fan_off_new" />
 
                     <Button
                         android:id="@+id/btnLed1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/purple_500"
-                        android:text="@string/led"
+                        android:text="@string/fan"
                         android:textColor="@color/white"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -79,15 +79,15 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:contentDescription="@string/led_icon"
-                        android:src="@drawable/led_off_new"
-                        android:scaleType="centerInside" />
+                        android:scaleType="centerInside"
+                        android:src="@drawable/fan_off_new" />
 
                     <Button
                         android:id="@+id/btnLed2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/purple_500"
-                        android:text="@string/led"
+                        android:text="@string/fan"
                         android:textColor="@color/white"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -97,8 +97,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center">
+                android:gravity="center"
+                android:orientation="horizontal">
 
                 <!-- Item 3 -->
                 <LinearLayout
@@ -115,15 +115,15 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:contentDescription="@string/led_icon"
-                        android:src="@drawable/led_off_new"
-                        android:scaleType="centerInside" />
+                        android:scaleType="centerInside"
+                        android:src="@drawable/fan_off_new" />
 
                     <Button
                         android:id="@+id/btnLed3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/purple_500"
-                        android:text="@string/led"
+                        android:text="@string/fan"
                         android:textColor="@color/white"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -143,15 +143,15 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:contentDescription="@string/led_icon"
-                        android:src="@drawable/led_off_new"
-                        android:scaleType="centerInside" />
+                        android:scaleType="centerInside"
+                        android:src="@drawable/fan_off_new" />
 
                     <Button
                         android:id="@+id/btnLed4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/purple_500"
-                        android:text="@string/led"
+                        android:text="@string/fan"
                         android:textColor="@color/white"
                         android:textStyle="bold" />
                 </LinearLayout>
